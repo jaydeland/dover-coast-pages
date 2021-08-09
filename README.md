@@ -1,1 +1,0 @@
-# Dover Coast Kennels

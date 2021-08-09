@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jaydeland.github.io/dover-coast-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jaydeland.github.io/dover-coast-pages/</loc>
+</url>
+<url>
+<loc>https://jaydeland.github.io/dover-coast-pages/roma.html</loc>
+<lastmod>2021-08-09T16:57:33-04:00</lastmod>
+<image:image>
+<image:loc>https://jaydeland.github.io/dover-coast-pages/media/posts/1/DSC_9430-small-2.jpg</image:loc>
+<image:title><![CDATA[Roma]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9447-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9445-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9438-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9442-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

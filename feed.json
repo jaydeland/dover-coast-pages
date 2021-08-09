@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dover Coast Kennels",
+    "description": "",
+    "home_page_url": "https://jaydeland.github.io/dover-coast-pages",
+    "feed_url": "https://jaydeland.github.io/dover-coast-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "JasonD"
+    },
+    "items": [
+        {
+            "id": "https://jaydeland.github.io/dover-coast-pages/roma.html",
+            "url": "https://jaydeland.github.io/dover-coast-pages/roma.html",
+            "title": "Roma",
+            "summary": "Roma is our faviorte \"tomatoe\" with a true Italian hertiage. ",
+            "content_html": "<h3 class=\"msg msg--highlight  \"><strong>Roma is our faviorte \"tomatoe\" with a true Italian hertiage.</strong></h3>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9447-2.jpeg\" data-size=\"4256x2832\"><img loading=\"lazy\" src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9447-2-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"479\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9445-2.jpeg\" data-size=\"4256x2832\"><img loading=\"lazy\" src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9445-2-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"479\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9438-2.jpeg\" data-size=\"4256x2832\"><img loading=\"lazy\" src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9438-2-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"479\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9442.jpeg\" data-size=\"3321x2064\"><img loading=\"lazy\" src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/1/gallery/DSC_9442-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"447\"></a></figure>\n</div></div>",
+            "image": "https://jaydeland.github.io/dover-coast-pages/media/posts/1/DSC_9430-small-2.jpg",
+            "author": {
+                "name": "JasonD"
+            },
+            "tags": [
+                   "mothers"
+            ],
+            "date_published": "2021-08-09T16:38:29-04:00",
+            "date_modified": "2021-08-09T16:57:33-04:00"
+        }
+    ]
+}

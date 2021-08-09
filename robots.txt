@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jaydeland.github.io/dover-coast-pages/sitemap.xml
