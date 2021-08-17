@@ -3,7 +3,7 @@
     <title>Dover Coast Kennels</title>
     <link href="https://jaydeland.github.io/dover-coast-pages/feed.xml" rel="self" />
     <link href="https://jaydeland.github.io/dover-coast-pages" />
-    <updated>2021-08-17T16:55:02-04:00</updated>
+    <updated>2021-08-17T17:22:45-04:00</updated>
     <author>
         <name>JasonD</name>
     </author>
@@ -154,7 +154,7 @@
         <link href="https://jaydeland.github.io/dover-coast-pages/our-facilities.html"/>
         <id>https://jaydeland.github.io/dover-coast-pages/our-facilities.html</id>
 
-        <updated>2021-08-17T16:43:55-04:00</updated>
+        <updated>2021-08-17T17:22:45-04:00</updated>
             <summary>
                 <![CDATA[
                      The Kennels The in-door Kennels help keep our dogs safe, comfortable, clean and healthy. Our custom designed whelping boxes give our Mothers&hellip;
@@ -171,8 +171,8 @@
     The in-door Kennels help keep our dogs safe, comfortable, clean and healthy.
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
-    <div class="gallery" data-columns="3">
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="1">
       <figure class="gallery__item">
       <a href="https://jaydeland.github.io/dover-coast-pages/media/posts/2/gallery/DSCF8906.jpeg" data-size="2496x1457">
         <img loading="lazy" src="https://jaydeland.github.io/dover-coast-pages/media/posts/2/gallery/DSCF8906-thumbnail.jpeg" height="420" width="720" alt="" />
@@ -200,8 +200,8 @@
     Our custom designed whelping boxes give our Mothers the comfort and the time they need to nurture their puppies.
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--center">
-    <div class="gallery" data-columns="3">
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="1">
       <figure class="gallery__item">
       <a href="https://jaydeland.github.io/dover-coast-pages/media/posts/2/gallery/DSCF8925.jpeg" data-size="2496x1588">
         <img loading="lazy" src="https://jaydeland.github.io/dover-coast-pages/media/posts/2/gallery/DSCF8925-thumbnail.jpeg" height="458" width="720" alt="" />
