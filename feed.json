@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jaydeland.github.io/dover-coast-pages/about-us-2.html",
+            "url": "https://jaydeland.github.io/dover-coast-pages/about-us-2.html",
+            "title": "About Us",
+            "summary": " Rebecca has ...... ",
+            "content_html": "<p> </p>\n<p>Rebecca has ......</p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://jaydeland.github.io/dover-coast-pages/media/posts/8/gallery/DSCF8940.jpeg\" data-size=\"1791x1608\"><img loading=\"lazy\" src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/8/gallery/DSCF8940-thumbnail.jpeg\" alt=\"Kennel Club of Canada Certificate\" width=\"720\" height=\"646\"></a></figure>\n</div></div>\n<p> </p>",
+            "author": {
+                "name": "JasonD"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-19T09:26:16-04:00",
+            "date_modified": "2021-08-19T09:26:16-04:00"
+        },
+        {
             "id": "https://jaydeland.github.io/dover-coast-pages/our-puppies.html",
             "url": "https://jaydeland.github.io/dover-coast-pages/our-puppies.html",
             "title": "Our Puppies",
@@ -27,7 +41,7 @@
         {
             "id": "https://jaydeland.github.io/dover-coast-pages/about-us.html",
             "url": "https://jaydeland.github.io/dover-coast-pages/about-us.html",
-            "title": "About Us",
+            "title": "Contact Us",
             "summary": "Located in Norfolk Country, Ontario. We are nestled between Simcoe and Port Dover on 10 Acres of land. ",
             "content_html": "<p>Located in Norfolk Country, Ontario. We are nestled between Simcoe and Port Dover on 10 Acres of land.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/DSCF8915.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-xs.jpeg 300w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-sm.jpeg 480w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-md.jpeg 768w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-lg.jpeg 1024w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-xl.jpeg 1360w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/DSCF8915-2xl.jpeg 1600w\"  alt=\"\" width=\"1664\" height=\"2496\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-xs.jpeg 300w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-sm.jpeg 480w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-md.jpeg 768w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-lg.jpeg 1024w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-xl.jpeg 1360w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/658A31DE-4A24-4FAB-BFAD-B4AAB60B00D2_1_105_c-2xl.jpeg 1600w\"  alt=\"\" width=\"1115\" height=\"705\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-xs.jpeg 300w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-sm.jpeg 480w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-md.jpeg 768w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-lg.jpeg 1024w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-xl.jpeg 1360w ,https://jaydeland.github.io/dover-coast-pages/media/posts/6/responsive/FE8468F3-C128-43DC-80C8-DA63D6C78AA7_1_105_c-2xl.jpeg 1600w\"  alt=\"\" width=\"899\" height=\"873\"></figure>",
             "author": {
@@ -36,7 +50,7 @@
             "tags": [
             ],
             "date_published": "2021-08-17T16:36:07-04:00",
-            "date_modified": "2021-08-17T16:36:07-04:00"
+            "date_modified": "2021-08-19T09:20:24-04:00"
         },
         {
             "id": "https://jaydeland.github.io/dover-coast-pages/our-studs-2.html",
