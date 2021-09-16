@@ -36,10 +36,6 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
         run: |
-          echo "machine dovercoastkennel.com login $USERNAME password $PASSWORD" > ~/.netrc
-          
-      - name: Add remote and push
-        shell: bash
-        run: |
+          machine dovercoastkennel.ca login $USERNAME password $PASSWORD
           git remote add page https://dovercoastkennel.ca/_git/page
           git push page master
