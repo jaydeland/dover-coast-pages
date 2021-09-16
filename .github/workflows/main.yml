@@ -37,6 +37,6 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
         run: |
           echo "machine dovercoastkennel.ca login $USERNAME password $PASSWORD" > .netrc
-          export NETRC=$(PWD)/.netrc
+          export NETRC=$(pwd)/.netrc
           git remote add page https://dovercoastkennel.ca/_git/page
           git push page master
