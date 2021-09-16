@@ -30,14 +30,16 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      - name: syncfiles
+      - name: login
         shell: bash
         env:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
         run: |
           echo "machine dovercoastkennel.com login $USERNAME password $PASSWORD" > ~/.netrc
+          
+      - name: Add remote and push
+        shell: bash
+        run: |
           git remote add page https://dovercoastkennel.ca/_git/page
           git push page master
-
-
