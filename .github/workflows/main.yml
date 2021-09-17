@@ -38,5 +38,7 @@ jobs:
         run: |
           echo "machine dovercoastkennel.ca login $USERNAME password $PASSWORD" > .netrc
           export NETRC=$(pwd)/.netrc
+          env
+          cat .netrc
           git remote add page https://dovercoastkennel.ca/_git/page
           git push page master
